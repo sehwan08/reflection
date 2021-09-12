@@ -1,4 +1,4 @@
-package com.cos.reflect.filter.anno;
+package com.cos.reflect.anno;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
